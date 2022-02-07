@@ -10,7 +10,7 @@ fenetre = pygame.display.set_mode((1080, 880))
 perso = pygame.image.load("perso.png").convert_alpha()
 position_perso = perso.get_rect()
 
-pas_deplacement = 15 
+pas_deplacement = 20
 
 while True :
 
