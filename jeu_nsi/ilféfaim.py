@@ -1,7 +1,7 @@
 import pygame, sys
 from pygame.locals import *
 from random import randint
-
+# yo mec
 pygame.init()
 pygame.key.set_repeat(50)
 
